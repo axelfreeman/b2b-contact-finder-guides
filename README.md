@@ -10,6 +10,8 @@ Complete guides for finding B2B contacts using modern tools and techniques.
 
 - **[How to Find Contacts in Telegram](how-to-find-contacts-telegram.md)** - Discover how to find business contacts in Telegram channels and groups using manual methods, catalogs, and automation
 
+- **[The Modern B2B Contact Finding Stack](modern-contact-finding-stack.md)** - Why buying databases is dead: resold, re-scraped, AI-generated data vs. mining fresh contacts from open sources (Google, Telegram, Discord)
+
 - **[Discord Scraper: Finding B2B Contacts in Community Platforms](discord-scraper.md)** - Why Discord is the new B2B goldmine and how to scrape contacts from Discord communities
 
 ### Tool Comparisons
