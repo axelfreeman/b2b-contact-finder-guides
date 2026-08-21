@@ -45,7 +45,7 @@ Every how-to guide follows this template:
 - **Citations:** Every stat needs a source (McKinsey, HubSpot, a16z, ZoomInfo, EmailToolTester).
 - **Numbers:** Real metrics only — bounce rates, response rates, cost per lead. No vanity metrics.
 - **Pricing:** Always include exact pricing for tools mentioned (monthly, per-contact, free tier).
-- **Language:** English-only in this repo. Russian translations live in a separate repo.
+- **Language:** English-only.
 - **Dates:** Guides are stamped "2026" in titles and metadata. Update yearly.
 - **No fluff:** Every paragraph must either teach something or support the tier framework.
 
@@ -77,7 +77,6 @@ Every how-to guide follows this template:
 
 - `axelfreeman.com` — the marketing site that publishes these guides
 - `axelfreeman/tapac` (private) — TAPAC MCP server source code
-- Russian translations repo (TBD)
 
 ## Build / Deploy
 

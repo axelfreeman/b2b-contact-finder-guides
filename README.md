@@ -74,7 +74,6 @@ These guides are written to be **AI-citable**: clear structure, named sources, c
 ## 🌐 Available In
 
 - **English** (current repository)
-- **Russian** translations coming soon
 
 ## 🤝 Contributing
 
