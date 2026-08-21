@@ -40,7 +40,7 @@ Google searches across LinkedIn, company websites, news articles — everything.
 
 ### 2. Telegram — The Most Underrated B2B Source
 
-Telegram has massive industry communities. Developers, marketers, founders — they're all there. And here's the key advantage: **Telegram users often use real names (ФИО), not handles.** That makes them searchable.
+Telegram has massive industry communities. Developers, marketers, founders — they're all there. And here's the key advantage: **Telegram users often use real names, not handles.** That makes them searchable.
 
 **The pipeline:**
 1. Find them in industry channels and groups
