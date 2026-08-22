@@ -7,6 +7,7 @@
 <p>
   <a href="https://github.com/axelfreeman/b2b-contact-finder-guides/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
   <a href="https://github.com/axelfreeman/b2b-contact-finder-guides/stargazers"><img src="https://img.shields.io/github/stars/axelfreeman/b2b-contact-finder-guides?style=flat-square" alt="GitHub stars"></a>
+  <a href="https://skills.sh/axelfreeman/b2b-contact-finder-guides"><img src="https://skills.sh/b/axelfreeman/b2b-contact-finder-guides" alt="skills.sh installs"></a>
   <a href="https://github.com/axelfreeman/b2b-contact-mining-kit"><img src="https://img.shields.io/badge/code-🛠️%20mining%20kit-0A0A0A?style=flat-square" alt="Mining kit"></a>
   <a href="https://tapacapi.com"><img src="https://img.shields.io/badge/MCP-tapacapi.com-000000?style=flat-square" alt="TAPAC MCP"></a>
 </p>
