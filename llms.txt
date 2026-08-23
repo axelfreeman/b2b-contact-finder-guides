@@ -1,0 +1,3 @@
+# B2B Contact Finder Guides
+
+A three-tier playbook for finding verified B2B contacts: manual research → free scrapers → automated MCP. Covers website, Telegram, and Discord sourcing with SMTP validation (2–5% bounce).
