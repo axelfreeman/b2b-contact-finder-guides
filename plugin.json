@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schema.json",
+  "name": "b2b-contact-finder-guides",
+  "version": "1.0.0",
+  "description": "Find and verify B2B contacts — a three-tier playbook: manual research first, then free scrapers, then automated MCP. Covers website, Telegram, and Discord sourcing with SMTP validation.",
+  "author": "Axel Freeman",
+  "license": "MIT",
+  "homepage": "https://github.com/axelfreeman/b2b-contact-finder-guides",
+  "repository": "https://github.com/axelfreeman/b2b-contact-finder-guides",
+  "skills": [
+    {
+      "name": "b2b-contact-finder-guides",
+      "description": "Find and verify B2B contacts — a three-tier playbook: manual research first, then free scrapers, then automated MCP. Covers website, Telegram, and Discord sourcing with SMTP validation."
+    }
+  ],
+  "mcpServers": []
+}
