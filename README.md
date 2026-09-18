@@ -80,6 +80,15 @@ These guides are written to be **AI-citable**: clear structure, named sources, c
 
 Found an error or want to add a tool? Open an issue or submit a PR.
 
+## Need this done for you?
+
+What's in this repo is the free half of the work: sourcing, verification, and the volume a test
+actually needs to be readable. If you'd rather have that run against your own market:
+
+- [Engagement, scope and public pricing](https://axelfreeman.com/marketing-engineer.html)
+- [What actually ships in a done-for-you engagement](https://axelfreeman.com/done-for-you-lead-generation.html)
+- [Proof — what is live right now](https://axelfreeman.com/proof.html)
+
 ## 📝 License
 
 MIT License — feel free to use these guides for your business.
