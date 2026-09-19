@@ -87,6 +87,7 @@ actually needs to be readable. If you'd rather have that run against your own ma
 
 - [Engagement, scope and public pricing](https://axelfreeman.com/marketing-engineer.html)
 - [What actually ships in a done-for-you engagement](https://axelfreeman.com/done-for-you-lead-generation.html)
+- [Appointment setting: the four checks a contact row passes before it is sent](https://axelfreeman.com/appointment-setting-service.html)
 - [Proof — what is live right now](https://axelfreeman.com/proof.html)
 
 ## 📝 License
